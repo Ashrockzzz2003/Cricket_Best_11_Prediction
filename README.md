@@ -1,5 +1,9 @@
 # World Cup Best-XI Selection with Regression
 
+- This project is an attempt to use regression to predict the best XI players for the 2023 Cricket World Cup given a team and an opponent. 
+- The data used for this project is from the 2007, 2011, 2015, and 2019 World Cups. 
+- The data was gathered from [ESPN Cricinfo](https://www.espncricinfo.com/) using web scraping.
+
 ## Gathering Data
 
 ### World Cup Dates
