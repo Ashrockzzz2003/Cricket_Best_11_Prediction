@@ -1,0 +1,151 @@
+team_name,player_name,player_id,player_role
+Afghanistan,Hashmatullah Shahidi,440970,Top order Batter
+Afghanistan,Rahmanullah Gurbaz,974087,Wicketkeeper Batter
+Afghanistan,Ibrahim Zadran,921509,Opening Batter
+Afghanistan,Reyaz Hassan,1061090,Batter
+Afghanistan,Rahmat Shah Zurmati,533956,Allrounder
+Afghanistan,Najibullah Zadran,524049,Middle order Batter
+Afghanistan,Mohammad Nabi Eisakhil,25913,Allrounder
+Afghanistan,Ikram Ali Khil,935553,Wicketkeeper Batter
+Afghanistan,Azmatullah Omarzai,819429,Allrounder
+Afghanistan,Rashid Khan Arman,793463,Bowling Allrounder
+Afghanistan,Mujeeb ur Rahman,974109,Bowler
+Afghanistan,Noor Ahmad Lakanwal,1182529,Bowler
+Afghanistan,Fazalhaq Farooqi,974175,Bowler
+Afghanistan,Abdul Rahman Rahmani,819507,Bowler
+Afghanistan,Naveen ul Haq Murid,793447,Bowler
+Australia,Pat Cummins,489889,Bowler
+Australia,Steve Smith,7656,Opening Batter
+Australia,Alex Carey,326434,Wicketkeeper Batter
+Australia,Josh Inglis,662235,Wicketkeeper Batter
+Australia,Sean Abbott,398666,Bowling Allrounder
+Australia,Cameron Green,1076713,Batting Allrounder
+Australia,Josh Hazlewood,288284,Bowler
+Australia,Travis Head,530011,Middle order Batter
+Australia,Marnus Labuschagne,787987,Batter
+Australia,Mitch Marsh,272450,Allrounder
+Australia,Glenn Maxwell,325026,Batting Allrounder
+Australia,Marcus Stoinis,325012,Batting Allrounder
+Australia,David Warner,219889,Opening Batter
+Australia,Adam Zampa,379504,Bowler
+Australia,Mitchell Starc,311592,Bowler
+Bangladesh,Shakib Al Hasan,56143,Allrounder
+Bangladesh,Litton Kumer Das,536936,Wicketkeeper Batter
+Bangladesh,Tanzid Hasan Tamim,990023,Opening Batter
+Bangladesh,Najmul Hossain Shanto,629058,Top order Batter
+Bangladesh,Tawhid Hridoy,990031,Top order Batter
+Bangladesh,Mushfiqur Rahim,56029,Wicketkeeper Batter
+Bangladesh,Mahmudullah Riyad,56025,Allrounder
+Bangladesh,Mehidy Hasan Miraz,629063,Allrounder
+Bangladesh,Nasum Ahmed,348049,Bowler
+Bangladesh,Shak Mahedi Hasan,833087,Allrounder
+Bangladesh,Taskin Ahmed,538506,Bowler
+Bangladesh,Mustafizur Rahman,330902,Bowler
+Bangladesh,Hasan Mahmud,926629,Bowler
+Bangladesh,Shoriful Islam,990039,Bowler
+Bangladesh,Tanzim Hasan Sakib,1139520,Bowler
+England,Jos Buttler,308967,Wicketkeeper Batter
+England,Moeen Ali,8917,Batting Allrounder
+England,Gus Atkinson,1039481,Bowler
+England,Jonny Bairstow,297433,Wicketkeeper Batter
+England,Harry Brook,911707,Batter
+England,Sam Curran,662973,Allrounder
+England,Liam Livingstone,403902,Batting Allrounder
+England,Dawid Malan,236489,Top order Batter
+England,Adil Rashid,244497,Bowler
+England,Joe Root,303669,Top order Batter
+England,Ben Stokes,311158,Allrounder
+England,Reece Topley,461632,Bowler
+England,David Willey,308251,Bowling Allrounder
+England,Mark Wood,351588,Bowler
+England,Chris Woakes,247235,Allrounder
+India,Rohit Sharma,34102,Top order Batter
+India,Hardik Pandya,625371,Allrounder
+India,Shubman Gill,1070173,Opening Batter
+India,Virat Kohli,253802,Top order Batter
+India,Shreyas Iyer,642519,Top order Batter
+India,KL Rahul,422108,Wicketkeeper Batter
+India,Ravindra Jadeja,234675,Allrounder
+India,Ravichandran Ashwin,26421,Bowling Allrounder
+India,Shardul Thakur,475281,Bowler
+India,Jasprit Bumrah,625383,Bowler
+India,Mohammed Siraj,940973,Bowler
+India,Kuldeep Yadav,559235,Bowler
+India,Mohammed Shami,481896,Bowler
+India,Ishan Kishan,720471,Wicketkeeper Batter
+India,Surya Kumar Yadav,446507,Batter
+Netherlands,Scott Edwards,1127317,Wicketkeeper Batter
+Netherlands,Max O'Dowd,643197,
+Netherlands,Bas de Leede,1036191,Batting Allrounder
+Netherlands,Vikram Singh,35281,Opening Batter
+Netherlands,Teja Nidamanuru,1129328,Allrounder
+Netherlands,Paul van Meekeren,348109,Bowler
+Netherlands,Colin Ackermann,379774,Batting Allrounder
+Netherlands,Roelof van der Merwe,47850,Bowling Allrounder
+Netherlands,Logan van Beek,440522,Bowler
+Netherlands,Aryan Dutt,1195672,Bowler
+Netherlands,Ryan Klein,594996,Bowler
+Netherlands,Wesley Barresi,44407,Batter
+Netherlands,Saqib Zulfiqar,526481,Bowling Allrounder
+Netherlands,Shariz Ahmad,1278252,Bowler
+Netherlands,Sybrand Engelbrecht,315035,Allrounder
+New Zealand,Kane Williamson,277906,Top order Batter
+New Zealand,Trent Boult,277912,Bowler
+New Zealand,Mark Chapman,438563,Allrounder
+New Zealand,Devon Conway,379140,Wicketkeeper Batter
+New Zealand,Lockie Ferguson,493773,Bowler
+New Zealand,Matt Henry,506612,Bowler
+New Zealand,Tom Latham,388802,Wicketkeeper Batter
+New Zealand,Daryl Mitchell,381743,Batting Allrounder
+New Zealand,Jimmy Neesham,355269,Batting Allrounder
+New Zealand,Glenn Phillips,823509,Wicketkeeper Batter
+New Zealand,Rachin Ravindra,959767,Batting Allrounder
+New Zealand,Mitch Santner,502714,Bowling Allrounder
+New Zealand,Ish Sodhi,559066,Bowler
+New Zealand,Tim Southee,232364,Bowler
+New Zealand,Will Young,547749,Top order Batter
+Pakistan,Babar Azam,348144,Batter
+Pakistan,Shadab Khan,922943,Allrounder
+Pakistan,Fakhar Zaman,512191,Opening Batter
+Pakistan,Imam-ul-Haq,568276,Top order Batter
+Pakistan,Abdullah Shafique,922941,Top order Batter
+Pakistan,Mohammad Rizwan,323389,Wicketkeeper Batter
+Pakistan,Saud Shakeel,652687,Middle order Batter
+Pakistan,Iftikhar Ahmed,480603,Middle order Batter
+Pakistan,Salman Ali Agha,623977,Allrounder
+Pakistan,Mohammad Nawaz,348148,Allrounder
+Pakistan,Usama Mir,647667,Bowler
+Pakistan,Haris Rauf,1161606,Bowler
+Pakistan,Hasan Ali,681305,Bowler
+Pakistan,Shaheen Afridi,1072470,Bowler
+Pakistan,Mohammad Wasim,1185538,Bowling Allrounder
+South Africa,Temba Bavuma,372116,Middle order Batter
+South Africa,Gerald Coetzee,596010,Bowler
+South Africa,Quinton de Kock,379143,Wicketkeeper Batter
+South Africa,Reeza Hendricks,269280,Opening Batter
+South Africa,Marco Jansen,696401,Bowling Allrounder
+South Africa,Heinrich Klaasen,436757,Wicketkeeper Batter
+South Africa,Andile Phehlukwayo,540316,Bowling Allrounder
+South Africa,Keshav Maharaj,267724,Bowler
+South Africa,Aiden Markram,600498,Opening Batter
+South Africa,David Miller,321777,Middle order Batter
+South Africa,Lungi Ngidi,542023,Bowler
+South Africa,Kagiso Rabada,550215,Bowler
+South Africa,Tabraiz Shamsi,379145,Bowler
+South Africa,Rassie van der Dussen,337790,Top order Batter
+South Africa,Lizaad Williams,379887,Bowler
+Sri Lanka,Dasun Shanaka,437316,Allrounder
+Sri Lanka,Kusal Mendis,629074,Wicketkeeper Batter
+Sri Lanka,Kusal Perera,300631,Wicketkeeper Batter
+Sri Lanka,Pathum Nissanka,1028655,Top order Batter
+Sri Lanka,Dimuth Karunaratne,227772,Opening Batter
+Sri Lanka,Sadeera Samarawickrama,629076,Wicketkeeper Batter
+Sri Lanka,Charith Asalanka,784367,Batting Allrounder
+Sri Lanka,Dhananjaya de Silva,465793,Allrounder
+Sri Lanka,Dushan Hemantha,721041,Allrounder
+Sri Lanka,Maheesh Theekshana,1138316,Bowler
+Sri Lanka,Dunith Wellalage,1152427,Bowler
+Sri Lanka,Kasun Rajitha,499594,Bowler
+Sri Lanka,Matheesha Pathirana,1194795,Bowler
+Sri Lanka,Lahiru Kumara,784375,Bowler
+Sri Lanka,Dilshan Madushanka,793007,Bowler
