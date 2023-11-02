@@ -16,4 +16,9 @@
 | 2019 | May 30, 2019 | Jul 14, 2019 |
 | 2023 | Oct 5, 2023 | Nov 19, 2023 |
 
+## Where to Start
+
+- The `final_data` folder contains the data used for this project.
+- The `runs_and_economy.ipynb` and `predicting_Dismissal.ipynb` notebooks contain the ML models used for predicting runs and economy and predicting dismissal respectively.
+
 
