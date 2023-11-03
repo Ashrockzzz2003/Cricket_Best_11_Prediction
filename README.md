@@ -21,4 +21,14 @@
 - The `final_data` folder contains the data used for this project.
 - The `runs_and_economy.ipynb` and `predicting_Dismissal.ipynb` notebooks contain the ML models used for predicting runs and economy and predicting dismissal respectively.
 
+## Team
 
+`Ashwin Narayanan S`
+
+`Sreepadh`
+
+`Ananya R`
+
+`Arjun P`
+
+`Kona Deepak`
