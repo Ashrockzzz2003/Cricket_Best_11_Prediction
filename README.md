@@ -23,12 +23,10 @@
 
 ## Team
 
-`Ashwin Narayanan S`
-
-`Sreepadh`
-
-`Ananya R`
-
-`Arjun P`
-
-`Kona Deepak`
+| Team |
+| ---- |
+|`Ashwin Narayanan S`|
+|`Sreepadh`|
+|`Ananya R`|
+|`Arjun P`|
+|`Kona Deepak`|
