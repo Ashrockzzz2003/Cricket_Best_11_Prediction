@@ -1,4 +1,4 @@
-# World Cup Best-XI Selection with Regression
+# World Cup Best-XI Selection with ML
 
 - This project is an attempt to use regression to predict the best XI players for the 2023 Cricket World Cup given a team and an opponent. 
 - The data used for this project is from the 2007, 2011, 2015, and 2019 World Cups. 
