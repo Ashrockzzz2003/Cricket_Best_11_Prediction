@@ -530,6 +530,72 @@ def getAllPlayers():
 
     return jsonify({"player_data": player_data})
 
+@app.route("/best11", methods=["POST"])
+def getBest11():
+    if request.method == "POST":
+        if request.is_json == False:
+            return jsonify({"message": "Invalid JSON"})
+
+        data = request.get_json()
+
+        if "team_name" not in data:
+            return jsonify({"message": "Team name not found"})
+        if "opposition_name" not in data:
+            return jsonify({"message": "Opposition name not found"})
+        if "ground_name" not in data:
+            return jsonify({"message": "Ground name not found"})
+
+        player_df = pd.read_csv("data/player_data.csv")
+        player_df = player_df[player_df["team_name"] == data["team_name"]]
+
+        batting_data = []
+
+        for i, row in player_df.iterrows():
+            if (
+                row["player_role"] == "Bowling Allrounder"
+                or row["player_role"] == "Bowler"
+            ):
+                continue
+            player_name = row["player_name"]
+            opposition_name = data["opposition_name"]
+            ground_name = data["ground_name"]
+            career_sr = row["SR"]
+            pred_runs = predict_runs(
+                player_name, opposition_name, ground_name, career_sr
+            )
+            batting_data.append(
+                {"player_name": player_name, "predicted_runs": pred_runs}
+            )
+
+        bowling_data = []
+
+        for i, row in player_df.iterrows():
+            if row["player_role"] == "Bowling Allrounder" or row['player_role'] == "Bowler" or row['player_role'] == "Allrounder":
+                player_name = row["player_name"]
+                opposition_name = data["opposition_name"]
+                ground_name = data["ground_name"]
+                pred_economy = predict_economy(
+                    player_name, opposition_name, ground_name
+                )
+                bowling_data.append(
+                    {"player_name": player_name, "predicted_economy": pred_economy}
+                )
+
+        batting_data = sorted(batting_data, key=lambda x: x["predicted_runs"], reverse=True)
+        bowling_data = sorted(bowling_data, key=lambda x: x["predicted_economy"])
+
+        best_11 = []
+
+        if len(batting_data) + len(bowling_data) >= 11:
+            if len(bowling_data) >= 5:
+                best_11 = batting_data[:6] + bowling_data[:5]
+            else:
+                best_11 = batting_data[:11 - len(bowling_data)] + bowling_data
+        else:
+            best_11 = batting_data + bowling_data
+
+        return jsonify({"best_11": best_11})
+
 
 if __name__ == "__main__":
     app.run(debug=True)
